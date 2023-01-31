@@ -503,3 +503,222 @@ Level flags = 0
 Total triangle count: 1482
 Writing d:\documents\github\mvm\mvm\mvm_ver1.bsp
 2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_ver1.vmf
+Brush 1104: bounds out of range
+Patching WVT material: maps/mvm_ver1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-3080.000000, 3080.000000, 130832.000000))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 3080.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (0.000000, 1024.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 1024.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (2048.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3072.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3072.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 2048.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: WOOD/GRAIN_ELEVATOR_SILO_05, near (3072.000000, 2048.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3072.000000, 2112.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: TOOLS/TOOLSSKYBOX, near (3072.000000, 2048.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: TOOLS/TOOLSSKYBOX, near (3072.000000, 2112.000000, 65535.996094))
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_ver1.vmf
+Brush 1104: bounds out of range
+Patching WVT material: maps/mvm_ver1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-3080.000000, 3080.000000, 130832.000000))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 3080.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (0.000000, 1024.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 1024.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (2048.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3072.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3072.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 2048.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: WOOD/GRAIN_ELEVATOR_SILO_05, near (3072.000000, 2048.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3072.000000, 2112.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: TOOLS/TOOLSSKYBOX, near (3072.000000, 2048.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: TOOLS/TOOLSSKYBOX, near (3072.000000, 2112.000000, 65535.996094))
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_ver1.vmf
+Brush 1104: bounds out of range
+Patching WVT material: maps/mvm_ver1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-3080.000000, 3080.000000, 130832.000000))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 3080.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (0.000000, 1024.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 1024.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (2048.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3072.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3072.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 2048.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: WOOD/GRAIN_ELEVATOR_SILO_05, near (3072.000000, 2048.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3072.000000, 2112.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: TOOLS/TOOLSSKYBOX, near (3072.000000, 2048.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: TOOLS/TOOLSSKYBOX, near (3072.000000, 2112.000000, 65535.996094))
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_ver1.vmf
+Brush 1104: bounds out of range
+Patching WVT material: maps/mvm_ver1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-3080.000000, 3080.000000, 130832.000000))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 3080.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (0.000000, 1024.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 1024.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (2048.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3072.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3072.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 3072.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3080.000000, 2048.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: WOOD/GRAIN_ELEVATOR_SILO_05, near (3072.000000, 2048.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (3072.000000, 2112.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: TOOLS/TOOLSSKYBOX, near (3072.000000, 2048.000000, 65535.996094))
+WARNING: BSP node with unbounded volume (material: TOOLS/TOOLSSKYBOX, near (3072.000000, 2112.000000, 65535.996094))
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_ver1.vmf
+Patching WVT material: maps/mvm_ver1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_ver1.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14190 bytes)
+Error loading studio model "models/lilchewchew/lilchewchew_gry.mdl"!
+Error! To use model "models/player/demo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/demo.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 41 texinfos to 24
+Reduced 9 texdatas to 7 (278 bytes to 197)
+Writing C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_ver1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_ver1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 212717, actual size 211967
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_ver1.bsp
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_ver1.prt
+ 123 portalclusters
+ 327 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 11 visible clusters (0.11%)
+Total clusters visible: 10464
+Average clusters visible: 85
+Building PAS...
+Average clusters audible: 123
+visdatasize:4962  compressed from 3936
+writing c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_ver1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_ver1.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_ver1.bsp
+620 faces
+712201 square feet [102556960.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+620 patches before subdivision
+34662 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1541811, max 415
+transfer lists:  11.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0077 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 38/8192          456/98304    ( 0.5%) 
+brushsides             237/65536        1896/524288   ( 0.4%) 
+planes                 196/65536        3920/1310720  ( 0.3%) 
+vertexes               822/65536        9864/786432   ( 1.3%) 
+nodes                  299/65536        9568/2097152  ( 0.5%) 
+texinfos                24/12288        1728/884736   ( 0.2%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  620/65536       34720/3670016  ( 0.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              122/65536        6832/3670016  ( 0.2%) 
+leaves                 304/65536        9728/2097152  ( 0.5%) 
+leaffaces              700/65536        1400/131072   ( 1.1%) 
+leafbrushes            157/65536         314/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             3259/512000      13036/2048000  ( 0.6%) 
+edges                 1732/256000       6928/1024000  ( 0.7%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             48/32768         480/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           612/65536        1224/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1045736/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        4962/16777216 ( 0.0%) 
+entdata               [variable]        2423/393216   ( 0.6%) 
+LDR ambient table      304/65536        1216/262144   ( 0.5%) 
+HDR ambient table      304/65536        1216/262144   ( 0.5%) 
+LDR leaf ambient       141/65536        3948/1835008  ( 0.2%) 
+HDR leaf ambient       304/65536        8512/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1450     ( 0.1%) 
+pakfile               [variable]      211967/0        ( 0.0%) 
+physics               [variable]       14190/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1531
+Writing c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_ver1.bsp
+1 second elapsed
