@@ -10,12 +10,7 @@ visgroups
 {
 }
 viewsettings
-{
-	"bSnapToGrid" "1"
-	"bShowGrid" "1"
-	"bShowLogicalGrid" "0"
-	"nGridSpacing" "2"
-}
+
 palette_plus
 {
 	"color0" "255 255 255"
