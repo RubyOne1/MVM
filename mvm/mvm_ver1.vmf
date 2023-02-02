@@ -11505,6 +11505,7 @@ world
 			"visgroupautoshown" "1"
 		}
 	}
+<<<<<<< HEAD
 	solid
 	{
 		"id" "5214"
@@ -13491,6 +13492,8 @@ world
 			"visgroupautoshown" "1"
 		}
 	}
+=======
+>>>>>>> d657110dd05abe1d5d916a870f806cfcb78ab13e
 	group
 	{
 		"id" "233"
@@ -14473,6 +14476,7 @@ entity
 }
 entity
 {
+<<<<<<< HEAD
 	"id" "5223"
 	"classname" "prop_dynamic"
 	"angles" "0 0 0"
@@ -14603,21 +14607,32 @@ entity
 entity
 {
 	"id" "5369"
+=======
+	"id" "5214"
+>>>>>>> d657110dd05abe1d5d916a870f806cfcb78ab13e
 	"classname" "prop_static"
 	"angles" "0 0 0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
+<<<<<<< HEAD
 	"model" "models/props_gameplay/cap_point_base.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "-1344 384 -64"
+=======
+	"model" "models/ambulance.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-96 576 -184"
+>>>>>>> d657110dd05abe1d5d916a870f806cfcb78ab13e
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+<<<<<<< HEAD
 		"logicalpos" "[0 8000]"
 	}
 }
@@ -15329,6 +15344,9 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -2268]"
+=======
+		"logicalpos" "[0 0]"
+>>>>>>> d657110dd05abe1d5d916a870f806cfcb78ab13e
 	}
 }
 cameras
@@ -15336,8 +15354,13 @@ cameras
 	"activecamera" "0"
 	camera
 	{
+<<<<<<< HEAD
 		"position" "[1331.92 3146.8 -56.0559]"
 		"look" "[948.164 3160.2 -53.3742]"
+=======
+		"position" "[173.377 874.189 158.137]"
+		"look" "[187.409 623.669 -132.548]"
+>>>>>>> d657110dd05abe1d5d916a870f806cfcb78ab13e
 	}
 }
 cordons
