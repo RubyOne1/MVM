@@ -198,3 +198,433 @@ Level flags = 0
 Total triangle count: 1969
 Writing d:\documents\github\mvm\mvm\mvm_last.bsp
 4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Documents\GitHub\MVM\mvm\mvm_last.vmf
+Patching WVT material: maps/mvm_last/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallisland_interior_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Documents\GitHub\MVM\mvm\mvm_last.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (862420 bytes)
+Error loading studio model ""!
+Error! To use model "models/player/demo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/demo.mdl"!
+Error! To use model "models/props_mvm/mine_elevator_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mine_elevator_door.mdl"!
+Error! To use model "models/bots/boss_bot/boss_tank.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/boss_bot/boss_tank.mdl"!
+Error! To use model "models/lilchewchew/lilchewchew_gry.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/lilchewchew/lilchewchew_gry.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material CP_MOUNTAINLAB/NATURE/GROUNDTOGRASS001 uses unknown detail object type tf_forest_grass!
+..10
+Compacting texture/material tables...
+Reduced 272 texinfos to 82
+Reduced 13 texdatas to 11 (463 bytes to 379)
+Writing D:\Documents\GitHub\MVM\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Documents\GitHub\MVM\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 213291, actual size 212407
+1 second elapsed
+
+
+
+16 threads
+reading d:\documents\github\mvm\mvm\mvm_last.bsp
+reading d:\documents\github\mvm\mvm\mvm_last.prt
+ 218 portalclusters
+ 665 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 102 visible clusters (0.28%)
+Total clusters visible: 35874
+Average clusters visible: 164
+Building PAS...
+Average clusters audible: 218
+visdatasize:14045  compressed from 13952
+writing d:\documents\github\mvm\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\github\mvm\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\github\mvm\mvm\mvm_last.bsp
+877 faces
+927912 square feet [133619376.00 square inches]
+37 Displacements
+177675 Square Feet [25585340.00 Square Inches]
+877 patches before subdivision
+50981 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2588956, max 337
+transfer lists:  19.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0145 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 63/8192          756/98304    ( 0.8%) 
+brushsides             388/65536        3104/524288   ( 0.6%) 
+planes                 298/65536        5960/1310720  ( 0.5%) 
+vertexes              1164/65536       13968/786432   ( 1.8%) 
+nodes                  465/65536       14880/2097152  ( 0.7%) 
+texinfos                82/12288        5904/884736   ( 0.7%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos               37/0            6512/0        ( 0.0%) 
+disp_verts            4453/0           89060/0        ( 0.0%) 
+disp_tris             7424/0           14848/0        ( 0.0%) 
+disp_lmsamples      174578/0          174578/0        ( 0.0%) 
+faces                  877/65536       49112/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              281/65536       15736/3670016  ( 0.4%) 
+leaves                 470/65536       15040/2097152  ( 0.7%) 
+leaffaces              961/65536        1922/131072   ( 1.5%) 
+leafbrushes            231/65536         462/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5060/512000      20240/2048000  ( 1.0%) 
+edges                 2731/256000      10924/1024000  ( 1.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             61/32768         610/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           813/65536        1626/131072   ( 1.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3787456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       14045/16777216 ( 0.1%) 
+entdata               [variable]        3550/393216   ( 0.9%) 
+LDR ambient table      470/65536        1880/262144   ( 0.7%) 
+HDR ambient table      470/65536        1880/262144   ( 0.7%) 
+LDR leaf ambient       236/65536        6608/1835008  ( 0.4%) 
+HDR leaf ambient       470/65536       13160/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4852     ( 0.0%) 
+pakfile               [variable]      212407/0        ( 0.0%) 
+physics               [variable]      862420/4194304  (20.6%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2183
+Writing d:\documents\github\mvm\mvm\mvm_last.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Documents\GitHub\MVM\mvm\mvm_last.vmf
+Patching WVT material: maps/mvm_last/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallisland_interior_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Documents\GitHub\MVM\mvm\mvm_last.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (862420 bytes)
+Error loading studio model ""!
+Error! To use model "models/player/demo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/demo.mdl"!
+Error! To use model "models/props_mvm/mine_elevator_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mine_elevator_door.mdl"!
+Error! To use model "models/bots/boss_bot/boss_tank.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/boss_bot/boss_tank.mdl"!
+Error! To use model "models/lilchewchew/lilchewchew_gry.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/lilchewchew/lilchewchew_gry.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material CP_MOUNTAINLAB/NATURE/GROUNDTOGRASS001 uses unknown detail object type tf_forest_grass!
+..10
+Compacting texture/material tables...
+Reduced 272 texinfos to 82
+Reduced 13 texdatas to 11 (463 bytes to 379)
+Writing D:\Documents\GitHub\MVM\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Documents\GitHub\MVM\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 213291, actual size 212407
+1 second elapsed
+
+
+
+16 threads
+reading d:\documents\github\mvm\mvm\mvm_last.bsp
+reading d:\documents\github\mvm\mvm\mvm_last.prt
+ 218 portalclusters
+ 665 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 102 visible clusters (0.28%)
+Total clusters visible: 35874
+Average clusters visible: 164
+Building PAS...
+Average clusters audible: 218
+visdatasize:14045  compressed from 13952
+writing d:\documents\github\mvm\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\github\mvm\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\github\mvm\mvm\mvm_last.bsp
+877 faces
+927912 square feet [133619376.00 square inches]
+37 Displacements
+177685 Square Feet [25586734.00 Square Inches]
+877 patches before subdivision
+50981 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2595345, max 337
+transfer lists:  19.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0147 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 63/8192          756/98304    ( 0.8%) 
+brushsides             388/65536        3104/524288   ( 0.6%) 
+planes                 298/65536        5960/1310720  ( 0.5%) 
+vertexes              1164/65536       13968/786432   ( 1.8%) 
+nodes                  465/65536       14880/2097152  ( 0.7%) 
+texinfos                82/12288        5904/884736   ( 0.7%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos               37/0            6512/0        ( 0.0%) 
+disp_verts            4453/0           89060/0        ( 0.0%) 
+disp_tris             7424/0           14848/0        ( 0.0%) 
+disp_lmsamples      174578/0          174578/0        ( 0.0%) 
+faces                  877/65536       49112/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              281/65536       15736/3670016  ( 0.4%) 
+leaves                 470/65536       15040/2097152  ( 0.7%) 
+leaffaces              961/65536        1922/131072   ( 1.5%) 
+leafbrushes            231/65536         462/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5060/512000      20240/2048000  ( 1.0%) 
+edges                 2731/256000      10924/1024000  ( 1.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             61/32768         610/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           813/65536        1626/131072   ( 1.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3787456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       14045/16777216 ( 0.1%) 
+entdata               [variable]        3550/393216   ( 0.9%) 
+LDR ambient table      470/65536        1880/262144   ( 0.7%) 
+HDR ambient table      470/65536        1880/262144   ( 0.7%) 
+LDR leaf ambient       236/65536        6608/1835008  ( 0.4%) 
+HDR leaf ambient       470/65536       13160/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4852     ( 0.0%) 
+pakfile               [variable]      212407/0        ( 0.0%) 
+physics               [variable]      862420/4194304  (20.6%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2183
+Writing d:\documents\github\mvm\mvm\mvm_last.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Documents\GitHub\MVM\mvm\mvm_last.vmf
+Patching WVT material: maps/mvm_last/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallisland_interior_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Documents\GitHub\MVM\mvm\mvm_last.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Warning: overflowed 43 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2190180 bytes)
+Error loading studio model ""!
+Error! To use model "models/player/demo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/demo.mdl"!
+Error! To use model "models/props_mvm/mine_elevator_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mine_elevator_door.mdl"!
+Error! To use model "models/bots/boss_bot/boss_tank.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/boss_bot/boss_tank.mdl"!
+Error! To use model "models/lilchewchew/lilchewchew_gry.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/lilchewchew/lilchewchew_gry.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.Material CP_MOUNTAINLAB/NATURE/GROUNDTOGRASS001 uses unknown detail object type tf_forest_grass!
+..9...10
+Compacting texture/material tables...
+Reduced 292 texinfos to 94
+Reduced 13 texdatas to 11 (463 bytes to 379)
+Writing D:\Documents\GitHub\MVM\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Documents\GitHub\MVM\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 213291, actual size 212407
+1 second elapsed
+
+
+
+16 threads
+reading d:\documents\github\mvm\mvm\mvm_last.bsp
+reading d:\documents\github\mvm\mvm\mvm_last.prt
+ 218 portalclusters
+ 694 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 99 visible clusters (0.25%)
+Total clusters visible: 39777
+Average clusters visible: 182
+Building PAS...
+Average clusters audible: 218
+visdatasize:14035  compressed from 13952
+writing d:\documents\github\mvm\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\github\mvm\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\github\mvm\mvm\mvm_last.bsp
+842 faces
+822321 square feet [118414336.00 square inches]
+129 Displacements
+270627 Square Feet [38970332.00 Square Inches]
+842 patches before subdivision
+45316 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2070189, max 326
+transfer lists:  15.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0149 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 61/8192          732/98304    ( 0.7%) 
+brushsides             375/65536        3000/524288   ( 0.6%) 
+planes                 302/65536        6040/1310720  ( 0.5%) 
+vertexes              1047/65536       12564/786432   ( 1.6%) 
+nodes                  451/65536       14432/2097152  ( 0.7%) 
+texinfos                94/12288        6768/884736   ( 0.8%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos              129/0           22704/0        ( 0.0%) 
+disp_verts           11905/0          238100/0        ( 0.0%) 
+disp_tris            19200/0           38400/0        ( 0.0%) 
+disp_lmsamples      421338/0          421338/0        ( 0.0%) 
+faces                  842/65536       47152/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              374/65536       20944/3670016  ( 0.6%) 
+leaves                 456/65536       14592/2097152  ( 0.7%) 
+leaffaces              847/65536        1694/131072   ( 1.3%) 
+leafbrushes            215/65536         430/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5227/512000      20908/2048000  ( 1.0%) 
+edges                 2799/256000      11196/1024000  ( 1.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             60/32768         600/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           783/65536        1566/131072   ( 1.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3723056/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       14035/16777216 ( 0.1%) 
+entdata               [variable]        3550/393216   ( 0.9%) 
+LDR ambient table      456/65536        1824/262144   ( 0.7%) 
+HDR ambient table      456/65536        1824/262144   ( 0.7%) 
+LDR leaf ambient       236/65536        6608/1835008  ( 0.4%) 
+HDR leaf ambient       456/65536       12768/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4846     ( 0.0%) 
+pakfile               [variable]      212407/0        ( 0.0%) 
+physics               [variable]     2190180/4194304  (52.2%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2047
+Writing d:\documents\github\mvm\mvm\mvm_last.bsp
+4 seconds elapsed
