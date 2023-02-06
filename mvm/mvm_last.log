@@ -24839,3 +24839,331 @@ Writing c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
 8 seconds elapsed
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Documents\GitHub\MVM\mvm\mvm_last.vmf
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest002_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest001_wvt_patch
+Patching WVT material: maps/mvm_last/moon/blendspacecraters_spacerock001_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallisland_interior_wvt_patch
+Patching WVT material: maps/mvm_last/cp_sunshine/nature/blendrocktograss001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (128, 1280, -128)
+env_cubemap pointing at deleted brushside near (459, -512, 256)
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-334.77 -108.33 -935.93) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 5140.0 3236.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 5140.0 -696.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 5652.0 1246.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 6144.0 1246.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 5632.0 1246.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4604.0 -744.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4604.0 3236.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 5116.0 3236.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (0)
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Warning: overflowed 17 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2274163 bytes)
+Error! To use model "models/player/demo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/demo.mdl"!
+Error! To use model "models/props_mvm/mine_elevator_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mine_elevator_door.mdl"!
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7Material CP_MOUNTAINLAB/NATURE/GROUNDTOGRASS001 uses unknown detail object type tf_forest_grass!
+...8...9...10
+Compacting texture/material tables...
+Reduced 470 texinfos to 181
+Reduced 25 texdatas to 20 (947 bytes to 738)
+Writing D:\Documents\GitHub\MVM\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Documents\GitHub\MVM\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 4468, actual size 3450
+1 second elapsed
+
+
+
+16 threads
+reading d:\documents\github\mvm\mvm\mvm_last.bsp
+reading d:\documents\github\mvm\mvm\mvm_last.prt
+LoadPortals: couldn't read d:\documents\github\mvm\mvm\mvm_last.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Documents\GitHub\MVM\mvm\mvm_last.vmf
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest002_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest001_wvt_patch
+Patching WVT material: maps/mvm_last/moon/blendspacecraters_spacerock001_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallisland_interior_wvt_patch
+Patching WVT material: maps/mvm_last/cp_sunshine/nature/blendrocktograss001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (128, 1280, -128)
+env_cubemap pointing at deleted brushside near (459, -512, 256)
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (0)
+writing D:\Documents\GitHub\MVM\mvm\mvm_last.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Warning: overflowed 17 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2274163 bytes)
+Error! To use model "models/player/demo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/demo.mdl"!
+Error! To use model "models/props_mvm/mine_elevator_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mine_elevator_door.mdl"!
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6Material CP_MOUNTAINLAB/NATURE/GROUNDTOGRASS001 uses unknown detail object type tf_forest_grass!
+...7...8...9...10
+Compacting texture/material tables...
+Reduced 470 texinfos to 181
+Reduced 25 texdatas to 20 (947 bytes to 738)
+Writing D:\Documents\GitHub\MVM\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Documents\GitHub\MVM\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 4468, actual size 3450
+1 second elapsed
+
+
+
+16 threads
+reading d:\documents\github\mvm\mvm\mvm_last.bsp
+reading d:\documents\github\mvm\mvm\mvm_last.prt
+ 180 portalclusters
+ 566 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.14%)
+Total clusters visible: 27704
+Average clusters visible: 153
+Building PAS...
+Average clusters audible: 180
+visdatasize:9769  compressed from 8640
+writing d:\documents\github\mvm\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\github\mvm\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\github\mvm\mvm\mvm_last.bsp
+670 faces
+1388322 square feet [199918464.00 square inches]
+240 Displacements
+339167 Square Feet [48840104.00 Square Inches]
+670 patches before subdivision
+29414 patches after subdivision
+WARNING: light_spot at (1277 2667 102) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1277 2667 102) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1626 2667 104) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1626 2667 104) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-160 1347 -52) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-160 1347 -52) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (390 1382 -47) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (390 1382 -47) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (423 1347 -50) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (423 1347 -50) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-127 1379 -48) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-127 1379 -48) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-260 -319 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-260 -319 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (128 -319 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (128 -319 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (127 -63 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (127 -63 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-256 -63 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-256 -63 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-27 1927 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-27 1927 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (268 1920 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (268 1920 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (272 2319 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (272 2319 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (263 2029 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (263 2029 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (706 2318 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (706 2318 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (697 2027 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (697 2027 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1161 2329 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1161 2329 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1153 2039 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1153 2039 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1607 2325 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1607 2325 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1598 2035 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1598 2035 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2051 2323 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2051 2323 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2043 2032 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2043 2032 103) has outer angle larger than 90 degrees! Clamping to 90...
+128 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1487384, max 296
+transfer lists:  11.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(31003, 10130, 10489)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4397, 398, 189)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(828, 18, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(168, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(38, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0161 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 53/8192          636/98304    ( 0.6%) 
+brushsides             329/65536        2632/524288   ( 0.5%) 
+planes                 406/65536        8120/1310720  ( 0.6%) 
+vertexes               896/65536       10752/786432   ( 1.4%) 
+nodes                  415/65536       13280/2097152  ( 0.6%) 
+texinfos               181/12288       13032/884736   ( 1.5%) 
+texdata                 20/2048          640/65536    ( 1.0%) 
+dispinfos              240/0           42240/0        ( 0.0%) 
+disp_verts           13488/0          269760/0        ( 0.0%) 
+disp_tris            20544/0           41088/0        ( 0.0%) 
+disp_lmsamples      813228/0          813228/0        ( 0.0%) 
+faces                  670/65536       37520/3670016  ( 1.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              396/65536       22176/3670016  ( 0.6%) 
+leaves                 420/65536       13440/2097152  ( 0.6%) 
+leaffaces              471/65536         942/131072   ( 0.7%) 
+leafbrushes            229/65536         458/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4435/512000      17740/2048000  ( 0.9%) 
+edges                 2502/256000      10008/1024000  ( 1.0%) 
+LDR worldlights        128/8192        11264/720896   ( 1.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             26/32768         260/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           369/65536         738/131072   ( 0.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     5547424/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9769/16777216 ( 0.1%) 
+entdata               [variable]      100558/393216   (25.6%) 
+LDR ambient table      420/65536        1680/262144   ( 0.6%) 
+HDR ambient table      420/65536        1680/262144   ( 0.6%) 
+LDR leaf ambient      2338/65536       65464/1835008  ( 3.6%) 
+HDR leaf ambient       420/65536       11760/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/11768    ( 0.0%) 
+pakfile               [variable]        3450/0        ( 0.0%) 
+physics               [variable]     2274163/4194304  (54.2%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1511
+Writing d:\documents\github\mvm\mvm\mvm_last.bsp
+8 seconds elapsed
