@@ -24063,3 +24063,444 @@ Level flags = 0
 Total triangle count: 1561
 Writing c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
 8 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.vmf
+Patching WVT material: maps/mvm_last/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest002_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest001_wvt_patch
+Patching WVT material: maps/mvm_last/moon/blendspacecraters_spacerock001_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallisland_interior_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (128, 1280, -128)
+env_cubemap pointing at deleted brushside near (459, -512, 256)
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (-1829.64 3888.00 -152.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (0)
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Warning: overflowed 13 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2508186 bytes)
+Error! To use model "models/player/demo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/demo.mdl"!
+Error! To use model "models/props_mvm/mine_elevator_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mine_elevator_door.mdl"!
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...Material CP_MOUNTAINLAB/NATURE/GROUNDTOGRASS001 uses unknown detail object type tf_forest_grass!
+7...8...9...10
+Compacting texture/material tables...
+Reduced 489 texinfos to 184
+Reduced 25 texdatas to 21 (930 bytes to 760)
+Writing C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 4437, actual size 3419
+1 second elapsed
+
+
+
+8 threads
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.prt
+LoadPortals: couldn't read c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.prt
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.vmf
+Patching WVT material: maps/mvm_last/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest002_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest001_wvt_patch
+Patching WVT material: maps/mvm_last/moon/blendspacecraters_spacerock001_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallisland_interior_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (128, 1280, -128)
+env_cubemap pointing at deleted brushside near (459, -512, 256)
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light (-1536.00 576.00 256.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (0)
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Warning: overflowed 13 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2508154 bytes)
+Error! To use model "models/player/demo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/demo.mdl"!
+Error! To use model "models/props_mvm/mine_elevator_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mine_elevator_door.mdl"!
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...Material CP_MOUNTAINLAB/NATURE/GROUNDTOGRASS001 uses unknown detail object type tf_forest_grass!
+7...8...9...10
+Compacting texture/material tables...
+Reduced 493 texinfos to 184
+Reduced 25 texdatas to 21 (930 bytes to 760)
+Writing C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 4437, actual size 3419
+1 second elapsed
+
+
+
+8 threads
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.prt
+LoadPortals: couldn't read c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.prt
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.vmf
+Patching WVT material: maps/mvm_last/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest002_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest001_wvt_patch
+Patching WVT material: maps/mvm_last/moon/blendspacecraters_spacerock001_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallisland_interior_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (128, 1280, -128)
+env_cubemap pointing at deleted brushside near (459, -512, 256)
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (-1976.00 4543.77 203.56) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 -3072.0 960.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2176.0 -2048.0 -1032.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2688.0 -2048.0 -1007.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2688.0 -2048.0 960.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2176.0 -2048.0 2952.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2688.0 -2048.0 2927.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 -2560.0 960.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1536.0 -3072.0 960.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (0)
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Warning: overflowed 13 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2508154 bytes)
+Error! To use model "models/player/demo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/demo.mdl"!
+Error! To use model "models/props_mvm/mine_elevator_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mine_elevator_door.mdl"!
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...Material CP_MOUNTAINLAB/NATURE/GROUNDTOGRASS001 uses unknown detail object type tf_forest_grass!
+7...8...9...10
+Compacting texture/material tables...
+Reduced 494 texinfos to 184
+Reduced 25 texdatas to 21 (930 bytes to 760)
+Writing C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 4437, actual size 3419
+1 second elapsed
+
+
+
+8 threads
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.prt
+LoadPortals: couldn't read c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.prt
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.vmf
+Patching WVT material: maps/mvm_last/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest002_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest001_wvt_patch
+Patching WVT material: maps/mvm_last/moon/blendspacecraters_spacerock001_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallisland_interior_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (128, 1280, -128)
+env_cubemap pointing at deleted brushside near (459, -512, 256)
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (-1976.00 4543.77 203.56) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 -3072.0 960.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2176.0 -2048.0 -1032.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2688.0 -2048.0 -1007.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2688.0 -2048.0 960.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2176.0 -2048.0 2952.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2688.0 -2048.0 2927.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 -2560.0 960.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1536.0 -3072.0 960.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (0)
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Warning: overflowed 13 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2508154 bytes)
+Error! To use model "models/player/demo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/demo.mdl"!
+Error! To use model "models/props_mvm/mine_elevator_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mine_elevator_door.mdl"!
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...Material CP_MOUNTAINLAB/NATURE/GROUNDTOGRASS001 uses unknown detail object type tf_forest_grass!
+7...8...9...10
+Compacting texture/material tables...
+Reduced 494 texinfos to 184
+Reduced 25 texdatas to 21 (930 bytes to 760)
+Writing C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 4437, actual size 3419
+1 second elapsed
+
+
+
+8 threads
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.prt
+LoadPortals: couldn't read c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.prt
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.vmf
+Patching WVT material: maps/mvm_last/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest002_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest001_wvt_patch
+Patching WVT material: maps/mvm_last/moon/blendspacecraters_spacerock001_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallisland_interior_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (128, 1280, -128)
+env_cubemap pointing at deleted brushside near (459, -512, 256)
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (-1976.00 4543.77 203.56) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (0)
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Warning: overflowed 13 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2508090 bytes)
+Error! To use model "models/player/demo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/demo.mdl"!
+Error! To use model "models/props_mvm/mine_elevator_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mine_elevator_door.mdl"!
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...Material CP_MOUNTAINLAB/NATURE/GROUNDTOGRASS001 uses unknown detail object type tf_forest_grass!
+7...8...9...10
+Compacting texture/material tables...
+Reduced 497 texinfos to 184
+Reduced 25 texdatas to 21 (930 bytes to 760)
+Writing C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 4437, actual size 3419
+1 second elapsed
+
+
+
+8 threads
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.prt
+LoadPortals: couldn't read c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.prt
