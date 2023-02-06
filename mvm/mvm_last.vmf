@@ -43535,6 +43535,7 @@ entity
 	"spawnflags" "0"
 	"style" "0"
 	"origin" "-1856 2844 116"
+	"origin" "-1832 2843.19 152"
 	editor
 	{
 		"color" "220 30 220"
@@ -43585,6 +43586,7 @@ entity
 	"spawnflags" "0"
 	"style" "0"
 	"origin" "-449.875 2864 50.1469"
+	"origin" "-556 2896 50.1469"
 	editor
 	{
 		"color" "220 30 220"
@@ -43810,6 +43812,7 @@ entity
 	"spawnflags" "0"
 	"style" "0"
 	"origin" "-1856 2124 172.168"
+	"origin" "-1820 2124 172.168"
 	editor
 	{
 		"color" "220 30 220"
@@ -44871,6 +44874,7 @@ entity
 	"skin" "0"
 	"solid" "6"
 	"origin" "-1088 3904 88"
+	"origin" "-1116 3900 148"
 	editor
 	{
 		"color" "255 255 0"
@@ -47142,6 +47146,7 @@ entity
 	"spawnflags" "0"
 	"style" "0"
 	"origin" "-1856 3644.81 114.13"
+	"origin" "-1832 3644 150.13"
 	editor
 	{
 		"color" "220 30 220"
@@ -50809,6 +50814,36 @@ entity
 		"logicalpos" "[0 0]"
 	}
 }
+entity
+{
+	"id" "31189"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props_woods/woods_tree_01.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-252 -374 193"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 7500]"
+	}
+}
 cameras
 {
 	"activecamera" "1"
@@ -50819,8 +50854,13 @@ cameras
 	}
 	camera
 	{
+<<<<<<< HEAD
 		"position" "[-960.521 3356.54 -14.4645]"
 		"look" "[-961.12 3357.32 -14.673]"
+=======
+		"position" "[15.8072 -265.792 342.517]"
+		"look" "[14.8461 -265.825 342.226]"
+>>>>>>> ebed93ead57172d5b5dd1f41c01db760ac3d9611
 	}
 	camera
 	{
