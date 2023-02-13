@@ -29517,3 +29517,1341 @@ Level flags = 0
 Total triangle count: 1545
 Writing d:\documents\github\mvm\mvm\mvm_last.bsp
 8 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.vmf
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest002_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest003_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (128, 1280, -128)
+env_cubemap pointing at deleted brushside near (459, -512, 256)
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light (-545.60 -1472.00 64.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (256.0 2048.0 220.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (768.0 2048.0 220.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 220.7)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 3072.0 220.7)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1216.0 1024.0 220.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1728.0 1024.0 220.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 1216.0 648.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 1216.0 180.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (0)
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Warning: overflowed 14 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2733915 bytes)
+Static prop models/props_2fort/oildrum.mdl outside the map (-596.17, -1866.74, -191.75)
+Error! To use model "models/props_mvm/robot_hologram.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/robot_hologram.mdl"!
+Static prop models/props_coalmines/wood_fence_256.mdl outside the map (-611.28, -1610.98, -165.18)
+Static prop models/props_coalmines/wood_fence_256.mdl outside the map (-614.65, -1143.06, -165.31)
+Static prop models/props_2fort/miningcrate002.mdl outside the map (-605.62, -1681.20, -191.75)
+Static prop models/props_2fort/miningcrate002.mdl outside the map (-605.62, -1681.20, -149.75)
+Static prop models/props_2fort/miningcrate002.mdl outside the map (-605.62, -1777.20, -191.75)
+Static prop models/props_2fort/miningcrate002.mdl outside the map (-605.62, -1777.20, -149.75)
+Static prop models/props_2fort/miningcrate002.mdl outside the map (-605.62, -1733.20, -149.75)
+Static prop models/props_2fort/miningcrate002.mdl outside the map (-605.62, -1733.20, -191.75)
+Static prop models/props_moonbase/moon_worklight01.mdl outside the map (292.40, 2344.85, 108.96)
+Static prop models/props_moonbase/moon_worklight01.mdl outside the map (2078.08, 2006.45, 108.96)
+Static prop models/props_moonbase/moon_worklight01.mdl outside the map (2084.73, 2344.79, 108.96)
+Static prop models/props_moonbase/moon_worklight01.mdl outside the map (1626.69, 2006.45, 108.96)
+Static prop models/props_moonbase/moon_worklight01.mdl outside the map (1633.34, 2344.79, 108.96)
+Static prop models/props_moonbase/moon_worklight01.mdl outside the map (1182.24, 2008.76, 108.96)
+Static prop models/props_moonbase/moon_worklight01.mdl outside the map (1188.90, 2347.10, 108.96)
+Static prop models/props_moonbase/moon_worklight01.mdl outside the map (732.41, 2003.18, 108.96)
+Static prop models/props_moonbase/moon_worklight01.mdl outside the map (739.07, 2341.52, 108.96)
+Static prop models/props_forest/rock001.mdl outside the map (-192.00, 3520.00, -384.00)
+Static prop models/props_moonbase/moon_worklight01.mdl outside the map (286.03, 1944.13, 108.96)
+Static prop models/props_moonbase/moon_worklight01.mdl outside the map (285.74, 2006.51, 108.96)
+Static prop models/props_moonbase/moon_worklight01.mdl outside the map (-42.26, 1950.79, 108.96)
+Error! To use model "models/items/medkit_medium.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/items/medkit_medium.mdl"!
+Static prop models/props_forest/cliff_wall_08.mdl outside the map (-142.00, 2878.00, -222.40)
+Static prop models/props_forest/cliff_wall_08.mdl outside the map (158.00, 2874.00, -222.40)
+Static prop models/props_mvm/construction_light02.mdl outside the map (1737.68, 2688.00, -187.85)
+Static prop models/props_farm/spool_rope.mdl outside the map (1178.28, 2656.28, -144.90)
+Static prop models/props_farm/spool_rope.mdl outside the map (1138.57, 2681.82, -169.80)
+Static prop models/props_farm/spool_rope.mdl outside the map (1194.98, 2674.11, -169.61)
+Static prop models/props_farm/spool_rope.mdl outside the map (-773.24, 2403.19, -142.71)
+Static prop models/props_farm/spool_rope.mdl outside the map (-777.24, 2341.63, -133.02)
+Static prop models/props_soho/trashbag001.mdl outside the map (729.00, 2644.00, -184.55)
+Static prop models/props_mvm/sack_stack.mdl outside the map (479.99, 2661.09, -181.95)
+Static prop models/props_mvm/sack_stack.mdl outside the map (570.00, 2668.00, -182.00)
+Error! To use model "models/props_mvm/mvm_upgrade_sign.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mvm_upgrade_sign.mdl"!
+Static prop models/props_mvm/mvm_upgrade_tools.mdl outside the map (2051.62, 3285.25, -201.10)
+Static prop models/props_mvm/mvm_upgrade_center.mdl outside the map (2050.00, 3287.00, -203.00)
+Error! To use model "models/items/ammopack_medium.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/items/ammopack_medium.mdl"!
+Static prop models/props_2fort/miningcrate002.mdl outside the map (-628.71, 3844.72, -143.22)
+Static prop models/props_2fort/miningcrate002.mdl outside the map (-684.71, 3876.72, -167.22)
+Static prop models/props_2fort/miningcrate001.mdl outside the map (-652.71, 3844.72, -143.22)
+Static prop models/props_farm/wooden_barrel.mdl outside the map (-220.00, 2656.00, -160.00)
+Static prop models/props_forest/rock001.mdl outside the map (279.18, 3396.36, -354.31)
+Static prop models/props_doomsday/dd_woodfence_256.mdl outside the map (-256.00, 2676.00, -172.00)
+Error! To use model "models/bots/gibs/heavybot_gib_leg.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/heavybot_gib_leg.mdl"!
+Error! To use model "models/bots/gibs/demobot_gib_leg1.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/demobot_gib_leg1.mdl"!
+Error! To use model "models/bots/gibs/demobot_gib_arm2.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/demobot_gib_arm2.mdl"!
+Static prop models/props_farm/wooden_barrel.mdl outside the map (1865.16, 2665.22, -161.06)
+Error! To use model "models/bots/gibs/demobot_gib_boss_pelvis.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/demobot_gib_boss_pelvis.mdl"!
+Error! To use model "models/bots/gibs/pyrobot_gib_pelvis.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/pyrobot_gib_pelvis.mdl"!
+Error! To use model "models/bots/gibs/medicbot_gib_head.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/medicbot_gib_head.mdl"!
+Error loading studio model "models/props_mvm/mvm_upgrade_blu_tools.mdl"!
+Static prop models/props_medieval/bar_table.mdl outside the map (820.00, 140.00, -178.65)
+Static prop models/props_2fort/oildrum.mdl outside the map (-620.17, -1898.74, -191.75)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-621.72, -1897.96, -136.25)
+Static prop models/props_moonbase/moon_worklight01.mdl outside the map (2008.00, 3864.00, 180.64)
+Static prop models/props_moonbase/moon_worklight01.mdl outside the map (-261.59, 2665.72, 189.26)
+Static prop models/props_moonbase/moon_worklight01.mdl outside the map (1645.44, 2641.36, 115.03)
+Static prop models/props_moonbase/moon_worklight01.mdl outside the map (1264.22, 2638.49, 113.09)
+Static prop models/props_mvm/mvm_museum_light.mdl outside the map (-1952.00, 1504.00, 193.24)
+Static prop models/props_foliage/tree_pine01_4cluster.mdl outside the map (1632.00, -1808.00, -189.67)
+Static prop models/props_foliage/tree_pine01_4cluster.mdl outside the map (1136.00, -1776.00, -176.71)
+Static prop models/props_foliage/tree_pine01_4cluster.mdl outside the map (190.23, -1931.24, -177.13)
+Static prop models/props_foliage/tree_pine01.mdl outside the map (688.00, -1888.00, -165.61)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-241.55, 1328.78, -136.25)
+Static prop models/props_2fort/oildrum.mdl outside the map (-240.00, 1328.00, -191.75)
+Static prop models/props_2fort/oildrum.mdl outside the map (-216.00, 1360.00, -191.75)
+Static prop models/props_2fort/oildrum.mdl outside the map (-248.00, 1368.00, -191.75)
+Static prop models/props_2fort/miningcrate001.mdl outside the map (-328.00, 1344.00, -144.00)
+Static prop models/props_2fort/miningcrate002.mdl outside the map (-304.00, 1344.00, -144.00)
+Static prop models/props_2fort/miningcrate002.mdl outside the map (-360.00, 1376.00, -168.00)
+Static prop models/props_foliage/scenes/space_cactus01.mdl outside the map (1816.00, 1328.00, -192.00)
+Static prop models/props_foliage/tree_pine_huge.mdl outside the map (1912.00, 1212.09, -205.04)
+Static prop models/props_foliage/tree_pine01_4cluster.mdl outside the map (1968.00, -1536.00, -182.08)
+Static prop models/props_badlands/barrel_flatbed01.mdl outside the map (1960.00, 2696.00, -187.44)
+Static prop models/props_2fort/miningcrate002.mdl outside the map (768.00, 760.00, -192.00)
+Static prop models/props_2fort/miningcrate002.mdl outside the map (768.00, 760.00, -150.00)
+Static prop models/props_2fort/miningcrate002.mdl outside the map (768.00, 708.00, -150.00)
+Static prop models/props_forest/rock004.mdl outside the map (-1620.20, 3125.96, -246.13)
+Static prop models/props_2fort/miningcrate002.mdl outside the map (768.00, 664.00, -192.00)
+Error! To use model "models/player/demo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/demo.mdl"!
+Static prop models/props_forest/rock003.mdl outside the map (-192.82, 3298.76, -347.57)
+Static prop models/props_doomsday/dd_woodfence_256.mdl outside the map (1248.00, 2661.21, -168.00)
+Static prop models/props_forest/rock004.mdl outside the map (-1600.00, 3456.00, -192.00)
+Static prop models/props_forest/rock001.mdl outside the map (-1600.00, 3648.00, -192.00)
+Static prop models/props_forest/rock004.mdl outside the map (-1600.00, 3840.00, -192.00)
+Static prop models/props_2fort/miningcrate002.mdl outside the map (768.00, 708.00, -192.00)
+Static prop models/props_forest/rock004.mdl outside the map (-1600.00, 2304.00, -320.00)
+Static prop models/props_forest/rock004.mdl outside the map (-1472.00, 2240.00, -192.00)
+Static prop models/props_forest/rock004.mdl outside the map (-1536.00, 2368.00, -256.00)
+Static prop models/props_forest/rock001.mdl outside the map (-1600.00, 2944.00, -320.00)
+Static prop models/props_forest/rock004.mdl outside the map (-965.56, 2156.56, -192.00)
+Static prop models/props_forest/rock004.mdl outside the map (-1216.00, 2176.00, -192.00)
+Static prop models/props_forest/rock004.mdl outside the map (-1600.00, 2496.00, -192.00)
+Static prop models/props_forest/rock004.mdl outside the map (-1357.89, 2170.44, -192.00)
+Static prop models/props_forest/rock004.mdl outside the map (-1088.00, 2176.00, -320.00)
+Static prop models/props_forest/rock003.mdl outside the map (-1600.00, 3328.00, -256.00)
+Error! To use model "models/props_mvm/mine_elevator_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mine_elevator_door.mdl"!
+Error loading studio model ""!
+Static prop models/props_forest/rock001.mdl outside the map (-1600.00, 2240.00, -320.00)
+Static prop models/props_forest/rock001.mdl outside the map (-1600.00, 2432.00, -320.00)
+Static prop models/props_doomsday/dd_woodfence_256.mdl outside the map (-728.00, 2332.00, -144.00)
+Static prop models/props_forest/cliff_wall_08.mdl outside the map (-0.82, 3337.16, -222.40)
+Static prop models/props_forest/rock004.mdl outside the map (-1611.11, 2624.00, -256.00)
+Static prop models/props_forest/rock003.mdl outside the map (-1600.00, 2752.00, -256.00)
+Static prop models/props_forest/rock002.mdl outside the map (-768.00, 2176.00, -256.00)
+Static prop models/props_forest/cliff_wall_08_mirrored.mdl outside the map (-195.33, 3744.93, -225.60)
+Static prop models/props_lights/lamp002.mdl outside the map (-720.00, -768.00, -192.00)
+Static prop models/props_coalmines/wood_fence_short_128.mdl outside the map (-1447.44, 697.68, 0.00)
+Static prop models/props_coalmines/wood_fence_short_128.mdl outside the map (-1566.51, 697.68, 0.00)
+Static prop models/props_lights/lamp002.mdl outside the map (-720.00, -768.00, -192.00)
+Static prop models/props_coalmines/wood_fence_short_128.mdl outside the map (-1655.43, 438.54, 0.00)
+Static prop models/props_coalmines/wood_fence_short_128.mdl outside the map (-1655.43, 320.40, 0.00)
+Static prop models/props_coalmines/wood_fence_short_128.mdl outside the map (-1655.43, 201.32, 0.00)
+Static prop models/props_coalmines/wood_fence_short_128.mdl outside the map (-1566.60, 77.62, 0.00)
+Static prop models/props_coalmines/wood_fence_short_128.mdl outside the map (-1655.43, 554.28, 0.00)
+Static prop models/props_coalmines/wood_fence_short_128.mdl outside the map (-1655.43, 671.95, 0.00)
+Static prop models/props_coalmines/wood_fence_short_128.mdl outside the map (-1095.88, 697.68, 0.00)
+Static prop models/props_coalmines/wood_fence_short_128.mdl outside the map (-1213.55, 697.68, 0.00)
+Static prop models/props_coalmines/wood_fence_short_128.mdl outside the map (-1329.29, 697.68, 0.00)
+Static prop models/props_2fort/miningcrate002.mdl outside the map (768.00, 664.00, -150.00)
+Static prop models/props_mvm/construction_light02.mdl outside the map (384.00, 1344.00, -191.00)
+Static prop models/props_mvm/construction_light02.mdl outside the map (-128.00, 1344.00, -191.00)
+Static prop models/props_mvm/construction_light02.mdl outside the map (-1391.22, 3821.65, -187.11)
+Static prop models/props_mvm/construction_light02.mdl outside the map (-832.00, 3840.00, -188.72)
+Static prop models/props_mvm/construction_light02.mdl outside the map (-650.27, -1967.12, -191.54)
+Static prop models/props_2fort/oildrum.mdl outside the map (-628.17, -1858.74, -191.75)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 484 texinfos to 177
+Reduced 17 texdatas to 13 (587 bytes to 393)
+Writing C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 2515, actual size 1899
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.prt
+LoadPortals: couldn't read c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.prt
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.vmf
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest002_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest003_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (128, 1280, -128)
+env_cubemap pointing at deleted brushside near (459, -512, 256)
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Warning: overflowed 14 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2736011 bytes)
+Error! To use model "models/props_mvm/robot_hologram.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/robot_hologram.mdl"!
+Error! To use model "models/items/medkit_medium.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/items/medkit_medium.mdl"!
+Error! To use model "models/props_mvm/mvm_upgrade_sign.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mvm_upgrade_sign.mdl"!
+Error! To use model "models/items/ammopack_medium.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/items/ammopack_medium.mdl"!
+Error! To use model "models/bots/gibs/heavybot_gib_leg.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/heavybot_gib_leg.mdl"!
+Error! To use model "models/bots/gibs/demobot_gib_leg1.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/demobot_gib_leg1.mdl"!
+Error! To use model "models/bots/gibs/demobot_gib_arm2.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/demobot_gib_arm2.mdl"!
+Error! To use model "models/bots/gibs/demobot_gib_boss_pelvis.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/demobot_gib_boss_pelvis.mdl"!
+Error! To use model "models/bots/gibs/pyrobot_gib_pelvis.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/pyrobot_gib_pelvis.mdl"!
+Error! To use model "models/bots/gibs/medicbot_gib_head.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/medicbot_gib_head.mdl"!
+Error loading studio model "models/props_mvm/mvm_upgrade_blu_tools.mdl"!
+Error! To use model "models/player/demo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/demo.mdl"!
+Error! To use model "models/props_mvm/mine_elevator_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mine_elevator_door.mdl"!
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 496 texinfos to 178
+Reduced 18 texdatas to 14 (605 bytes to 411)
+Writing C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 2515, actual size 1899
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.prt
+ 168 portalclusters
+ 508 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 65 visible clusters (0.28%)
+Total clusters visible: 23479
+Average clusters visible: 139
+Building PAS...
+Average clusters audible: 168
+visdatasize:8441  compressed from 8064
+writing c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+729 faces
+1372397 square feet [197625168.00 square inches]
+342 Displacements
+422945 Square Feet [60904172.00 Square Inches]
+729 patches before subdivision
+35109 patches after subdivision
+WARNING: light_spot at (268 1920 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (268 1920 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-27 1927 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-27 1927 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (272 2319 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (272 2319 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1598 2035 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1598 2035 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1607 2325 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1607 2325 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1153 2039 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1153 2039 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1161 2329 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1161 2329 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (697 2027 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (697 2027 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (706 2318 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (706 2318 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (263 2029 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (263 2029 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2043 2032 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2043 2032 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2051 2323 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2051 2323 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1277 2667 102) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1277 2667 102) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-265 2697 179) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-265 2697 179) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1626 2667 104) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1626 2667 104) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-160 1347 -52) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-160 1347 -52) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (390 1382 -47) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (390 1382 -47) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (423 1347 -50) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (423 1347 -50) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-127 1375 -50) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-127 1375 -50) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-260 -319 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-260 -319 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (128 -319 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (128 -319 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (127 -63 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (127 -63 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-256 -63 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-256 -63 432) has outer angle larger than 90 degrees! Clamping to 90...
+164 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2183041, max 288
+transfer lists:  16.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(61485, 30800, 28451)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(8568, 2038, 1253)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1593, 154, 65)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(335, 14, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(77, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(18, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0261 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 65/8192          780/98304    ( 0.8%) 
+brushsides             417/65536        3336/524288   ( 0.6%) 
+planes                 474/65536        9480/1310720  ( 0.7%) 
+vertexes              1037/65536       12444/786432   ( 1.6%) 
+nodes                  416/65536       13312/2097152  ( 0.6%) 
+texinfos               178/12288       12816/884736   ( 1.4%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos              342/0           60192/0        ( 0.0%) 
+disp_verts           16686/0          333720/0        ( 0.0%) 
+disp_tris            25056/0           50112/0        ( 0.0%) 
+disp_lmsamples     1264330/0         1264330/0        ( 0.0%) 
+faces                  729/65536       40824/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              489/65536       27384/3670016  ( 0.7%) 
+leaves                 421/65536       13472/2097152  ( 0.6%) 
+leaffaces              411/65536         822/131072   ( 0.6%) 
+leafbrushes            251/65536         502/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5066/512000      20264/2048000  ( 1.0%) 
+edges                 2973/256000      11892/1024000  ( 1.2%) 
+LDR worldlights        164/8192        14432/720896   ( 2.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             42/32768         420/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           588/65536        1176/131072   ( 0.9%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     7047160/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8441/16777216 ( 0.1%) 
+entdata               [variable]      146787/393216   (37.3%) 
+LDR ambient table      421/65536        1684/262144   ( 0.6%) 
+HDR ambient table      421/65536        1684/262144   ( 0.6%) 
+LDR leaf ambient      2472/65536       69216/1835008  ( 3.8%) 
+HDR leaf ambient       421/65536       11788/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/16514    ( 0.0%) 
+pakfile               [variable]        1899/0        ( 0.0%) 
+physics               [variable]     2736011/4194304  (65.2%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1652
+Writing c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+12 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+729 faces
+1372397 square feet [197625168.00 square inches]
+342 Displacements
+422945 Square Feet [60904172.00 Square Inches]
+729 patches before subdivision
+35109 patches after subdivision
+WARNING: light_spot at (268 1920 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (268 1920 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-27 1927 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-27 1927 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (272 2319 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (272 2319 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1598 2035 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1598 2035 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1607 2325 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1607 2325 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1153 2039 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1153 2039 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1161 2329 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1161 2329 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (697 2027 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (697 2027 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (706 2318 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (706 2318 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (263 2029 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (263 2029 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2043 2032 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2043 2032 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2051 2323 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2051 2323 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1277 2667 102) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1277 2667 102) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-265 2697 179) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-265 2697 179) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1626 2667 104) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1626 2667 104) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-160 1347 -52) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-160 1347 -52) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (390 1382 -47) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (390 1382 -47) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (423 1347 -50) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (423 1347 -50) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-127 1375 -50) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-127 1375 -50) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-260 -319 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-260 -319 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (128 -319 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (128 -319 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (127 -63 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (127 -63 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-256 -63 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-256 -63 432) has outer angle larger than 90 degrees! Clamping to 90...
+164 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2183041, max 288
+transfer lists:  16.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(44968, 22942, 44773)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5603, 1485, 1680)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(966, 113, 76)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(195, 11, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(45, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(10, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0349 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 65/8192          780/98304    ( 0.8%) 
+brushsides             417/65536        3336/524288   ( 0.6%) 
+planes                 474/65536        9480/1310720  ( 0.7%) 
+vertexes              1037/65536       12444/786432   ( 1.6%) 
+nodes                  416/65536       13312/2097152  ( 0.6%) 
+texinfos               178/12288       12816/884736   ( 1.4%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos              342/0           60192/0        ( 0.0%) 
+disp_verts           16686/0          333720/0        ( 0.0%) 
+disp_tris            25056/0           50112/0        ( 0.0%) 
+disp_lmsamples     1264330/0         1264330/0        ( 0.0%) 
+faces                  729/65536       40824/3670016  ( 1.1%) 
+hdr faces              729/65536       40824/3670016  ( 1.1%) 
+origfaces              489/65536       27384/3670016  ( 0.7%) 
+leaves                 421/65536       13472/2097152  ( 0.6%) 
+leaffaces              411/65536         822/131072   ( 0.6%) 
+leafbrushes            251/65536         502/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5066/512000      20264/2048000  ( 1.0%) 
+edges                 2973/256000      11892/1024000  ( 1.2%) 
+LDR worldlights        164/8192        14432/720896   ( 2.0%) 
+HDR worldlights        164/8192        14432/720896   ( 2.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             42/32768         420/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           588/65536        1176/131072   ( 0.9%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     7047160/0        ( 0.0%) 
+HDR lightdata         [variable]     7047160/0        ( 0.0%) 
+visdata               [variable]        8441/16777216 ( 0.1%) 
+entdata               [variable]      146787/393216   (37.3%) 
+LDR ambient table      421/65536        1684/262144   ( 0.6%) 
+HDR ambient table      421/65536        1684/262144   ( 0.6%) 
+LDR leaf ambient      2472/65536       69216/1835008  ( 3.8%) 
+HDR leaf ambient      2469/65536       69132/1835008  ( 3.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/16514    ( 0.0%) 
+pakfile               [variable]        1899/0        ( 0.0%) 
+physics               [variable]     2736011/4194304  (65.2%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1652
+Writing c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+14 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.vmf
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest002_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest003_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (128, 1280, -128)
+env_cubemap pointing at deleted brushside near (459, -512, 256)
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Warning: overflowed 14 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2737674 bytes)
+Error! To use model "models/props_mvm/robot_hologram.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/robot_hologram.mdl"!
+Error! To use model "models/props_mvm/mvm_upgrade_sign.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mvm_upgrade_sign.mdl"!
+Error! To use model "models/items/medkit_medium.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/items/medkit_medium.mdl"!
+Error! To use model "models/bots/gibs/heavybot_gib_leg.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/heavybot_gib_leg.mdl"!
+Error! To use model "models/bots/gibs/demobot_gib_leg1.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/demobot_gib_leg1.mdl"!
+Error! To use model "models/bots/gibs/demobot_gib_arm2.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/demobot_gib_arm2.mdl"!
+Error! To use model "models/bots/gibs/demobot_gib_boss_pelvis.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/demobot_gib_boss_pelvis.mdl"!
+Error! To use model "models/bots/gibs/pyrobot_gib_pelvis.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/pyrobot_gib_pelvis.mdl"!
+Error! To use model "models/bots/gibs/medicbot_gib_head.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/medicbot_gib_head.mdl"!
+Error loading studio model "models/props_mvm/mvm_upgrade_blu_tools.mdl"!
+Error! To use model "models/items/ammopack_medium.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/items/ammopack_medium.mdl"!
+Error! To use model "models/player/demo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/demo.mdl"!
+Error! To use model "models/props_mvm/mine_elevator_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mine_elevator_door.mdl"!
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 508 texinfos to 187
+Reduced 19 texdatas to 15 (624 bytes to 430)
+Writing C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 2515, actual size 1899
+1 second elapsed
+
+
+
+8 threads
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.prt
+ 168 portalclusters
+ 508 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 62 visible clusters (0.26%)
+Total clusters visible: 23476
+Average clusters visible: 139
+Building PAS...
+Average clusters audible: 168
+visdatasize:8441  compressed from 8064
+writing c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+747 faces
+1374045 square feet [197862480.00 square inches]
+342 Displacements
+422945 Square Feet [60904172.00 Square Inches]
+747 patches before subdivision
+35127 patches after subdivision
+WARNING: light_spot at (268 1920 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (268 1920 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-27 1927 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-27 1927 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (272 2319 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (272 2319 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1598 2035 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1598 2035 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1607 2325 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1607 2325 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1153 2039 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1153 2039 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1161 2329 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1161 2329 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (697 2027 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (697 2027 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (706 2318 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (706 2318 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (263 2029 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (263 2029 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2043 2032 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2043 2032 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2051 2323 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2051 2323 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1277 2667 102) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1277 2667 102) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-265 2697 179) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-265 2697 179) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1626 2667 104) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1626 2667 104) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-160 1347 -52) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-160 1347 -52) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (390 1382 -47) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (390 1382 -47) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (423 1347 -50) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (423 1347 -50) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-127 1375 -50) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-127 1375 -50) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-260 -319 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-260 -319 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (128 -319 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (128 -319 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (127 -63 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (127 -63 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-256 -63 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-256 -63 432) has outer angle larger than 90 degrees! Clamping to 90...
+164 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2181999, max 288
+transfer lists:  16.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(61342, 30721, 28337)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(8569, 2037, 1251)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1595, 154, 66)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(336, 14, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(77, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(18, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0136 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 68/8192          816/98304    ( 0.8%) 
+brushsides             435/65536        3480/524288   ( 0.7%) 
+planes                 498/65536        9960/1310720  ( 0.8%) 
+vertexes              1061/65536       12732/786432   ( 1.6%) 
+nodes                  434/65536       13888/2097152  ( 0.7%) 
+texinfos               187/12288       13464/884736   ( 1.5%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos              342/0           60192/0        ( 0.0%) 
+disp_verts           16686/0          333720/0        ( 0.0%) 
+disp_tris            25056/0           50112/0        ( 0.0%) 
+disp_lmsamples     1264330/0         1264330/0        ( 0.0%) 
+faces                  747/65536       41832/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              507/65536       28392/3670016  ( 0.8%) 
+leaves                 442/65536       14144/2097152  ( 0.7%) 
+leaffaces              429/65536         858/131072   ( 0.7%) 
+leafbrushes            254/65536         508/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5210/512000      20840/2048000  ( 1.0%) 
+edges                 3045/256000      12180/1024000  ( 1.2%) 
+LDR worldlights        164/8192        14432/720896   ( 2.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             42/32768         420/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           588/65536        1176/131072   ( 0.9%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     7047160/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8441/16777216 ( 0.1%) 
+entdata               [variable]      148927/393216   (37.9%) 
+LDR ambient table      442/65536        1768/262144   ( 0.7%) 
+HDR ambient table      442/65536        1768/262144   ( 0.7%) 
+LDR leaf ambient      2515/65536       70420/1835008  ( 3.8%) 
+HDR leaf ambient       442/65536       12376/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/18328    ( 0.0%) 
+pakfile               [variable]        1899/0        ( 0.0%) 
+physics               [variable]     2737674/4194304  (65.3%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1688
+Writing c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+747 faces
+1374045 square feet [197862480.00 square inches]
+342 Displacements
+422945 Square Feet [60904172.00 Square Inches]
+747 patches before subdivision
+35127 patches after subdivision
+WARNING: light_spot at (268 1920 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (268 1920 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-27 1927 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-27 1927 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (272 2319 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (272 2319 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1598 2035 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1598 2035 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1607 2325 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1607 2325 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1153 2039 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1153 2039 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1161 2329 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1161 2329 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (697 2027 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (697 2027 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (706 2318 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (706 2318 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (263 2029 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (263 2029 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2043 2032 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2043 2032 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2051 2323 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2051 2323 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1277 2667 102) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1277 2667 102) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-265 2697 179) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-265 2697 179) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1626 2667 104) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1626 2667 104) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-160 1347 -52) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-160 1347 -52) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (390 1382 -47) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (390 1382 -47) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (423 1347 -50) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (423 1347 -50) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-127 1375 -50) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-127 1375 -50) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-260 -319 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-260 -319 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (128 -319 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (128 -319 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (127 -63 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (127 -63 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-256 -63 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-256 -63 432) has outer angle larger than 90 degrees! Clamping to 90...
+164 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2181999, max 288
+transfer lists:  16.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(44814, 22856, 44634)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5602, 1483, 1677)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(968, 114, 76)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(196, 11, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(45, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(10, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0140 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 68/8192          816/98304    ( 0.8%) 
+brushsides             435/65536        3480/524288   ( 0.7%) 
+planes                 498/65536        9960/1310720  ( 0.8%) 
+vertexes              1061/65536       12732/786432   ( 1.6%) 
+nodes                  434/65536       13888/2097152  ( 0.7%) 
+texinfos               187/12288       13464/884736   ( 1.5%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos              342/0           60192/0        ( 0.0%) 
+disp_verts           16686/0          333720/0        ( 0.0%) 
+disp_tris            25056/0           50112/0        ( 0.0%) 
+disp_lmsamples     1264330/0         1264330/0        ( 0.0%) 
+faces                  747/65536       41832/3670016  ( 1.1%) 
+hdr faces              747/65536       41832/3670016  ( 1.1%) 
+origfaces              507/65536       28392/3670016  ( 0.8%) 
+leaves                 442/65536       14144/2097152  ( 0.7%) 
+leaffaces              429/65536         858/131072   ( 0.7%) 
+leafbrushes            254/65536         508/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5210/512000      20840/2048000  ( 1.0%) 
+edges                 3045/256000      12180/1024000  ( 1.2%) 
+LDR worldlights        164/8192        14432/720896   ( 2.0%) 
+HDR worldlights        164/8192        14432/720896   ( 2.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             42/32768         420/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           588/65536        1176/131072   ( 0.9%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     7047160/0        ( 0.0%) 
+HDR lightdata         [variable]     7047160/0        ( 0.0%) 
+visdata               [variable]        8441/16777216 ( 0.1%) 
+entdata               [variable]      148927/393216   (37.9%) 
+LDR ambient table      442/65536        1768/262144   ( 0.7%) 
+HDR ambient table      442/65536        1768/262144   ( 0.7%) 
+LDR leaf ambient      2515/65536       70420/1835008  ( 3.8%) 
+HDR leaf ambient      2513/65536       70364/1835008  ( 3.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/18328    ( 0.0%) 
+pakfile               [variable]        1899/0        ( 0.0%) 
+physics               [variable]     2737674/4194304  (65.3%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1688
+Writing c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+9 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.vmf
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest002_wvt_patch
+Patching WVT material: maps/mvm_last/nature/blendrockgroundwallforest003_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (128, 1280, -128)
+env_cubemap pointing at deleted brushside near (459, -512, 256)
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Warning: overflowed 14 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2737121 bytes)
+Error! To use model "models/props_mvm/robot_hologram.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/robot_hologram.mdl"!
+Error! To use model "models/props_mvm/mvm_upgrade_sign.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mvm_upgrade_sign.mdl"!
+Error! To use model "models/items/medkit_medium.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/items/medkit_medium.mdl"!
+Error! To use model "models/bots/gibs/heavybot_gib_leg.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/heavybot_gib_leg.mdl"!
+Error! To use model "models/bots/gibs/demobot_gib_leg1.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/demobot_gib_leg1.mdl"!
+Error! To use model "models/bots/gibs/demobot_gib_arm2.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/demobot_gib_arm2.mdl"!
+Error! To use model "models/bots/gibs/demobot_gib_boss_pelvis.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/demobot_gib_boss_pelvis.mdl"!
+Error! To use model "models/bots/gibs/pyrobot_gib_pelvis.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/pyrobot_gib_pelvis.mdl"!
+Error! To use model "models/bots/gibs/medicbot_gib_head.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bots/gibs/medicbot_gib_head.mdl"!
+Error loading studio model "models/props_mvm/mvm_upgrade_blu_tools.mdl"!
+Error! To use model "models/items/ammopack_medium.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/items/ammopack_medium.mdl"!
+Error! To use model "models/player/demo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/demo.mdl"!
+Error! To use model "models/props_mvm/mine_elevator_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mvm/mine_elevator_door.mdl"!
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 505 texinfos to 184
+Reduced 19 texdatas to 15 (624 bytes to 430)
+Writing C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\andre\OneDrive\Документы\GitHub\MVM\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 2515, actual size 1899
+1 second elapsed
+
+
+
+8 threads
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+reading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.prt
+ 168 portalclusters
+ 508 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 62 visible clusters (0.26%)
+Total clusters visible: 23476
+Average clusters visible: 139
+Building PAS...
+Average clusters audible: 168
+visdatasize:8441  compressed from 8064
+writing c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+741 faces
+1373729 square feet [197817104.00 square inches]
+342 Displacements
+422945 Square Feet [60904172.00 Square Inches]
+741 patches before subdivision
+35121 patches after subdivision
+WARNING: light_spot at (268 1920 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (268 1920 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-27 1927 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-27 1927 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (272 2319 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (272 2319 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1598 2035 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1598 2035 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1607 2325 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1607 2325 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1153 2039 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1153 2039 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1161 2329 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1161 2329 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (697 2027 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (697 2027 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (706 2318 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (706 2318 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (263 2029 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (263 2029 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2043 2032 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2043 2032 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2051 2323 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2051 2323 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1277 2667 102) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1277 2667 102) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-265 2697 179) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-265 2697 179) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1626 2667 104) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1626 2667 104) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-160 1347 -52) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-160 1347 -52) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (390 1382 -47) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (390 1382 -47) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (423 1347 -50) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (423 1347 -50) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-127 1375 -50) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-127 1375 -50) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-260 -319 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-260 -319 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (128 -319 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (128 -319 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (127 -63 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (127 -63 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-256 -63 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-256 -63 432) has outer angle larger than 90 degrees! Clamping to 90...
+164 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2181459, max 288
+transfer lists:  16.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(61310, 30708, 28328)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(8560, 2035, 1250)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1592, 154, 65)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(335, 14, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(77, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(18, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0153 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 67/8192          804/98304    ( 0.8%) 
+brushsides             429/65536        3432/524288   ( 0.7%) 
+planes                 492/65536        9840/1310720  ( 0.8%) 
+vertexes              1053/65536       12636/786432   ( 1.6%) 
+nodes                  428/65536       13696/2097152  ( 0.7%) 
+texinfos               184/12288       13248/884736   ( 1.5%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos              342/0           60192/0        ( 0.0%) 
+disp_verts           16686/0          333720/0        ( 0.0%) 
+disp_tris            25056/0           50112/0        ( 0.0%) 
+disp_lmsamples     1264330/0         1264330/0        ( 0.0%) 
+faces                  741/65536       41496/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              501/65536       28056/3670016  ( 0.8%) 
+leaves                 435/65536       13920/2097152  ( 0.7%) 
+leaffaces              423/65536         846/131072   ( 0.6%) 
+leafbrushes            253/65536         506/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5162/512000      20648/2048000  ( 1.0%) 
+edges                 3021/256000      12084/1024000  ( 1.2%) 
+LDR worldlights        164/8192        14432/720896   ( 2.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             42/32768         420/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           588/65536        1176/131072   ( 0.9%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     7047160/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8441/16777216 ( 0.1%) 
+entdata               [variable]      148976/393216   (37.9%) 
+LDR ambient table      435/65536        1740/262144   ( 0.7%) 
+HDR ambient table      435/65536        1740/262144   ( 0.7%) 
+LDR leaf ambient      2531/65536       70868/1835008  ( 3.9%) 
+HDR leaf ambient       435/65536       12180/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/18328    ( 0.0%) 
+pakfile               [variable]        1899/0        ( 0.0%) 
+physics               [variable]     2737121/4194304  (65.3%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1676
+Writing c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+10 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+741 faces
+1373729 square feet [197817104.00 square inches]
+342 Displacements
+422945 Square Feet [60904172.00 Square Inches]
+741 patches before subdivision
+35121 patches after subdivision
+WARNING: light_spot at (268 1920 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (268 1920 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-27 1927 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-27 1927 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (272 2319 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (272 2319 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1598 2035 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1598 2035 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1607 2325 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1607 2325 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1153 2039 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1153 2039 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1161 2329 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1161 2329 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (697 2027 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (697 2027 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (706 2318 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (706 2318 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (263 2029 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (263 2029 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2043 2032 103) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2043 2032 103) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2051 2323 98) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (2051 2323 98) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1277 2667 102) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1277 2667 102) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-265 2697 179) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-265 2697 179) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1626 2667 104) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (1626 2667 104) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-160 1347 -52) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-160 1347 -52) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (390 1382 -47) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (390 1382 -47) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (423 1347 -50) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (423 1347 -50) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-127 1375 -50) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-127 1375 -50) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-260 -319 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-260 -319 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (128 -319 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (128 -319 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (127 -63 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (127 -63 432) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-256 -63 432) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-256 -63 432) has outer angle larger than 90 degrees! Clamping to 90...
+164 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2181459, max 288
+transfer lists:  16.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(44784, 22844, 44624)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5593, 1481, 1675)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(965, 113, 76)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(195, 11, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(45, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(10, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0163 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 67/8192          804/98304    ( 0.8%) 
+brushsides             429/65536        3432/524288   ( 0.7%) 
+planes                 492/65536        9840/1310720  ( 0.8%) 
+vertexes              1053/65536       12636/786432   ( 1.6%) 
+nodes                  428/65536       13696/2097152  ( 0.7%) 
+texinfos               184/12288       13248/884736   ( 1.5%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos              342/0           60192/0        ( 0.0%) 
+disp_verts           16686/0          333720/0        ( 0.0%) 
+disp_tris            25056/0           50112/0        ( 0.0%) 
+disp_lmsamples     1264330/0         1264330/0        ( 0.0%) 
+faces                  741/65536       41496/3670016  ( 1.1%) 
+hdr faces              741/65536       41496/3670016  ( 1.1%) 
+origfaces              501/65536       28056/3670016  ( 0.8%) 
+leaves                 435/65536       13920/2097152  ( 0.7%) 
+leaffaces              423/65536         846/131072   ( 0.6%) 
+leafbrushes            253/65536         506/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5162/512000      20648/2048000  ( 1.0%) 
+edges                 3021/256000      12084/1024000  ( 1.2%) 
+LDR worldlights        164/8192        14432/720896   ( 2.0%) 
+HDR worldlights        164/8192        14432/720896   ( 2.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             42/32768         420/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           588/65536        1176/131072   ( 0.9%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     7047160/0        ( 0.0%) 
+HDR lightdata         [variable]     7047160/0        ( 0.0%) 
+visdata               [variable]        8441/16777216 ( 0.1%) 
+entdata               [variable]      148976/393216   (37.9%) 
+LDR ambient table      435/65536        1740/262144   ( 0.7%) 
+HDR ambient table      435/65536        1740/262144   ( 0.7%) 
+LDR leaf ambient      2531/65536       70868/1835008  ( 3.9%) 
+HDR leaf ambient      2527/65536       70756/1835008  ( 3.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/18328    ( 0.0%) 
+pakfile               [variable]        1899/0        ( 0.0%) 
+physics               [variable]     2737121/4194304  (65.3%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1676
+Writing c:\users\andre\onedrive\Документы\github\mvm\mvm\mvm_last.bsp
+10 seconds elapsed
